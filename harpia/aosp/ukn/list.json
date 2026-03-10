@@ -1,0 +1,9 @@
+{
+    "3.11" : {
+        "url" : "https://sourceforge.net/projects/moto-msm8916/files/Harpia/Havoc/Havoc-OS-v3.11-20201109-harpia-Unofficial.zip/download",
+        "initialBuild" : false,
+        "skin" : "lin",
+        "androidVersion" : "10",
+        "skinVersion" : "3.11"
+    }
+}
