@@ -1,0 +1,9 @@
+{
+    "marketName" : "Motorola Moto G4 Play",
+    "types" : ["aosp"],
+    "type" : "phone",
+    "soc" : {
+        "manufacturer" : "qc",
+        "displayName" : "Snapdragon 410",
+    },
+}

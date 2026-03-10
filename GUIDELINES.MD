@@ -1,6 +1,6 @@
 # Guidelines for Rome Repo
 
-_Last updated 10th of March, 2026 - 15:02_
+_Last updated 10th of March, 2026 - 4:01PM_
 
 ## Device Requirements
 On par with the Rome app, this should only have ROMs for devices shipped with **Android 10+**, which I see as a good balance between extensiveness and overwhelmingness.
@@ -37,7 +37,7 @@ Add it's folder in the project root, referencing it by it's codename (i.e. `sapp
 > It is not necessary to fill out support, SOC or other info aside the market name for aliased devices, see folder structure of the `sapphire` and `sapphireN` for reference.
 
 Your `info.json` should look like this:
-```
+```jsonc
 {
     "marketName" : "Redmi Note 13 (4G)", // Full market name
     "types" : ["factory", "aosp", "port"], // Supported/existing ROMs
@@ -54,7 +54,7 @@ Your `info.json` should look like this:
 Add `factory/`, `aosp/` and `port/` ROMs as supported.
 
 For the `factory/` folder, add a `list.json` like this:
-```
+```jsonc
 {
     "V14.0.4.0.TNGMIXM" : { // Version name as referenced by manufacturer
         "url" : "https://example.com/rom-file.zip", // Prefer using direct downloads instead of file sharers if possible.
