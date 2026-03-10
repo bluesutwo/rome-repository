@@ -1,0 +1,10 @@
+{
+    "marketName" : "Redmi Note 13 (4G)",
+    "types" : ["factory", "aosp", "port"],
+    "type" : "phone",
+    "soc" : {
+        "manufacturer" : "qc",
+        "displayName" : "Snapdragon 685",
+        "model" : "SD6225"
+    }
+}

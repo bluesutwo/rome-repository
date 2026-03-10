@@ -1,0 +1,9 @@
+{
+    "V14.0.4.0.TNGMIXM" : {
+        "url" : "https://bigota.d.miui.com/V14.0.4.0.TNGMIXM/miui_SAPPHIREGlobal_V14.0.4.0.TNGMIXM_cd13dc01db_13.0.zip",
+        "initialBuild" : true,
+        "skin" : "miui",
+        "androidVersion" : "13",
+        "skinVersion" : "14.4"
+    }
+}
